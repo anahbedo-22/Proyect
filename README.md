@@ -1,4 +1,4 @@
-# 💄 Proyecto Final — Glow Up
+# Proyecto Final — Glow Up
 
 Este proyecto fue desarrollado en **Java** como parte del trabajo final del semestre en **Programación Orientada a Objetos**.  
 El sistema simula la gestión de una empresa ficticia llamada **Glow Up**, dirigida por la misteriosa Cabrita Sakura.  
@@ -6,7 +6,7 @@ El objetivo es aplicar los principios de la POO (herencia, composición, encapsu
 
 ---
 
-## 🧠 Descripción general
+##  Descripción general
 
 El programa representa el funcionamiento interno de Glow Up, una compañía cosmética que mezcla operaciones legales y otras más “cuestionables”.  
 Hay distintos tipos de usuarios dentro del sistema:
