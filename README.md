@@ -25,4 +25,4 @@ La idea del proyecto es practicar el diseño de clases, relaciones y manejo de d
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/anahbedo-22/GlowUp-ProyectoFinal.git
+git clone https://github.com/anahbedo-22/Proyect.git
