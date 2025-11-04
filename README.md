@@ -24,5 +24,7 @@ La idea del proyecto es practicar el diseño de clases, relaciones y manejo de d
 ## ⚙️ Cómo ejecutar el programa
 
 1. Clonar el repositorio:
-   ```bash
+
+```bash
 git clone https://github.com/anahbedo-22/Proyect.git
+cd Proyect
